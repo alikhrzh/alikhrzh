@@ -26,5 +26,5 @@ Python, pandas, NumPy, scikit-learn, PyTorch, Transformers, sentence-transformer
 
 ## Contact
 
-- Email: [TODO: email]
-- LinkedIn: [TODO: LinkedIn URL]
+- Email: alikhanrzh6990@gmail.com
+- LinkedIn: https://www.linkedin.com/in/alikhan-rakhymzhan/
