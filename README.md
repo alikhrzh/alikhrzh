@@ -6,6 +6,7 @@ I enjoy turning an idea into a reproducible experiment: preparing data, establis
 
 ## Selected projects
 
+- [Deep Learning Lab](https://github.com/alikhrzh/deep-learning-lab) — an original NumPy implementation of a two-layer neural network with gradient checking, L2 regularization, dropout, tests, and reproducible decision-boundary visualizations.
 - [NU Club Finder](https://github.com/alikhrzh/ML-project) — a collaborative recommendation system that combines multilingual sentence embeddings with interest-based ranking to help Nazarbayev University students discover clubs.
 - [Shadow-Fight](https://github.com/alikhrzh/Shadow-Fight) — a team hackathon project for browser-based boxing practice using on-device pose estimation, rule-based technique feedback, and optional AI explanations.
 - [Boxing Fight Analysis](https://github.com/alikhrzh/Boxing-fight-analysis) — an early research prototype exploring event-based punch detection from boxing video, with an explicit roadmap and evaluation plan.
